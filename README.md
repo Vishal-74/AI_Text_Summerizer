@@ -2,6 +2,12 @@
 
 Welcome to our All-in-One Tools website! This project aims to provide users with a convenient platform where they can access various tools to simplify their tasks. Currently, we have implemented a Text Summarizer tool, which allows users to summarize lengthy texts quickly and efficiently.
 
+
+
+https://github.com/Vishal-74/AI_Text_Summerizer/assets/115347234/01b92b54-a382-4d36-92ae-bc1ce626be7e
+
+
+
 ## Features
 - **Text Summarizer:** Our website offers a Text Summarizer tool that condenses long texts into concise summaries, helping users save time and extract key information more easily.
 
